@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-### WIP!!!!!!!!!!!!!!!!!!!!!!!!!
+
 import smtplib
 from email.message import EmailMessage
 import os.path
